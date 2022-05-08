@@ -1,0 +1,274 @@
+# 2022年春アニメ
+# op:オープニング
+# ed:エンディング
+# insert:挿入歌
+# special:特殊扱いの楽曲など
+# group:1期2期などの同一シリーズを識別
+# official_site:公式ページのURL
+# noncredit:ノンクレジットの動画
+# tvsize:テレビサイズの動画
+
+
+["阿波連さんははかれない"]
+    op1.title = "TVアニメ『阿波連さんははかれない』ノンクレジットOPムービー／OPテーマ：TrySail「はなれない距離」"
+    op1.url = "https://www.youtube.com/watch?v=eirZBq6kpz4"
+    op1.noncredit = true
+    op1.tvsize = true
+
+    op1_full.title = "TrySail「はなれない距離」Music Video -Full size-（TVアニメ『阿波連さんははかれない』OPテーマ）"
+    op1_full.url = "https://www.youtube.com/watch?v=eW5FbLpZR7o"
+    op1_full.noncredit = false
+    op1_full.tvsize = false
+
+    ed1.title = "TVアニメ『阿波連さんははかれない』ノンクレジットEDムービー／EDテーマ：ハコニワリリィ「キョリ感」"
+    ed1.url = "https://www.youtube.com/watch?v=u7HZWryI208"
+    ed1.noncredit = true
+    ed1.tvsize = true
+
+    special_ed_ep3.title = "TVアニメ『阿波連さんははかれない』第3話特殊EDノンクレジットムービー／阿波連れいな（CV:水瀬いのり）「AHAREN HEART」"
+    special_ed_ep3.url = "https://www.youtube.com/watch?v=vnO2R66BaYo"
+    special_ed_ep3.noncredit = true
+    special_ed_ep3.tvsize = true
+
+["乙女ゲー世界はモブに厳しい世界です"]
+    op1.title = "TVアニメ「乙女ゲー世界はモブに厳しい世界です」 ノンクレジットOP映像｜伊東歌詞太郎「サイレントマイノリティー」"
+    op1.url = "https://www.youtube.com/watch?v=HQQAN_y2mq0"
+    op1.noncredit = true
+    op1.tvsize = true
+
+    ed1.title = "TVアニメ「乙女ゲー世界はモブに厳しい世界です」 ノンクレジットED映像｜安月名莉子「selfish」"
+    ed1.url = "https://www.youtube.com/watch?v=0_xM9UeELDc"
+    ed1.noncredit = true
+    ed1.tvsize = true
+
+["骸骨騎士様、只今異世界へお出掛け中"]
+    op1.title = "【ノンクレジットOP】TVアニメ「骸骨騎士様、只今異世界へお出掛け中」PelleK「嗚呼、我が浪漫の道よ」"
+    op1.url = "https://www.youtube.com/watch?v=63tS4a_epWI"
+    op1.noncredit =true
+    op1.tvsize = true
+
+    op1_full.title = "嗚呼、我が浪漫の道よ"
+    op1_full.url = "https://www.youtube.com/watch?v=MeZ6ECW4tWk"
+    op1_full.noncredit = false
+    op1_full.tvsize = false
+
+    ed1.title = "【ノンクレジットED】TVアニメ「骸骨騎士様、只今異世界へお出掛け中」DIALOGUE＋「僕らが愚かだなんて誰が⾔った」"
+    ed1.url = "https://www.youtube.com/watch?v=9n36uxUbtkM"
+    ed1.noncredit = true
+    ed1.tvsize = true
+
+    ed1_full.title = "DIALOGUE＋「僕らが愚かだなんて誰が言った」Music Video"
+    ed1_full.url = "https://www.youtube.com/watch?v=blgxfEUgvVU"
+    ed1_full.noncredit = false
+    ed1_full.tvsize = false
+
+["かぐや様は告らせたい-ウルトラロマンティック-"]
+    op1.title = "「かぐや様は告らせたい-ウルトラロマンティック-」オープニング映像 ♪鈴木雅之 feat. すぅ「GIRI GIRI」"
+    op1.url = "https://www.youtube.com/watch?v=j3p6sXq_uUM"
+    op1.noncredit = true
+    op1.tvsize = true
+
+    op1_full.title = "【MV】鈴木雅之 feat. すぅ『GIRI GIRI』TVアニメ「かぐや様は告らせたい-ウルトラロマンティック-」OP主題歌"
+    op1_full.url = "https://www.youtube.com/watch?v=vptdHEUZN10"
+    op1_full.noncredit = false
+    op1_full.tvsize = false
+
+    ed1.title = "「かぐや様は告らせたい-ウルトラロマンティック-」エンディング映像 ♪鈴木愛理「ハートはお手上げ」"
+    ed1.url = "https://www.youtube.com/watch?v=sVoz_fH59Ew"
+    ed1.noncredit = true
+    ed1.tvsize = true
+
+    ed1_full.title = "鈴木愛理『ハートはお手上げ』(Music Video) TVアニメ「かぐや様は告らせたい-ウルトラロマンティック-」ED主題歌"
+    ed1_full.url = "https://www.youtube.com/watch?v=GSuselwRqcE"
+    ed1_full.noncredit = false
+    ed1_full.tvsize = false
+
+    special_ed_ep5.title = "TVアニメ『かぐや様は告らせたい-ウルトラロマンティック-』第5話エンディング映像♪「My Nonfiction」"
+    special_ed_ep5.url = "https://www.youtube.com/watch?v=yWp6SXivHBQ"
+    special_ed_ep5.noncredit = true
+    special_ed_ep5.tvsize = true
+
+["カッコウの許嫁"]
+    op1.title = "TVアニメ「カッコウの許嫁」ノンクレジットオープニング映像【吉岡聖恵「凸凹」】"
+    op1.url = "https://www.youtube.com/watch?v=XWB5xEzIfzo"
+    op1.noncredit = true
+    op1.tvsize = true
+
+    op1_full.title = "吉岡聖恵「凸凹」Music Video"
+    op1_full.url = "https://www.youtube.com/watch?v=VILFxv3SJ64"
+    op1_full.noncredit = false
+    op1_full.tvsize = false
+
+    ed1.title = "TVアニメ「カッコウの許嫁」ノンクレジットエンディング映像【三月のパンタシア「四角運命」】"
+    ed1.url = "https://www.youtube.com/watch?v=0llzTiAMYY8"
+    ed1.noncredit = true
+    ed1.tvsize = true
+
+    ed1_full.title = "三月のパンタシア 『四角運命』"
+    ed1_full.url = "https://www.youtube.com/watch?v=5JrlSDQreTY"
+    ed1_full.noncredit = false
+    ed1_full.tvsize = false
+
+["可愛いだけじゃない式守さん"]
+    op1.title = "TVアニメ『可愛いだけじゃない式守さん』ノンクレジットOP / なすお☆「ハニージェットコースター」"
+    op1.url = "https://www.youtube.com/watch?v=bWTGWUH9-Nc"
+    op1.noncredit = true
+    op1.tvsize = true
+
+    op1_full.title = "ハニージェットコースター"
+    op1_full.url = "https://www.youtube.com/watch?v=9QrGOAZ6-dE"
+    op1_full.noncredit = false
+    op1_full.tvsize = false
+
+    ed1.title = "TVアニメ『可愛いだけじゃない式守さん』ノンクレジットED / 中島由貴「Route BLUE」"
+    ed1.url = "https://www.youtube.com/watch?v=_vralhT8x3I"
+    ed1.noncredit = true
+    ed1.tvsize = true
+
+    ed1_full.title = "Route BLUE"
+    ed1_full.url = "https://www.youtube.com/watch?v=gvrprwGI0WI"
+    ed1_full.noncredit = false
+    ed1_full.tvsize = false
+
+["くノ一ツバキの胸の内"]
+    op1.title = "TVアニメ「くノ一ツバキの胸の内」ノンクレジットオープニング映像／the peggies「ハイライト・ハイライト」"
+    op1.url = "https://www.youtube.com/watch?v=kW1fxX25Ktk"
+    op1.noncredit = true
+    op1.tvsize = true
+
+    op1_full.title = "the peggies「ハイライト・ハイライト」Music Video(TVアニメ「くノ一ツバキの胸の内」OPテーマ)"
+    op1_full.url = "https://www.youtube.com/watch?v=TKhla9ZuM5M"
+    op1_full.noncredit = false
+    op1_full.tvsize = false
+
+    ed1.title = "TVアニメ「くノ一ツバキの胸の内」一の巻ノンクレジットエンディング映像"
+    ed1.url = "https://www.youtube.com/watch?v=C3EjK1qCZWU"
+    ed1.noncredit = true
+    ed1.tvsize = true
+
+    ed2.title = "TVアニメ「くノ一ツバキの胸の内」二の巻ノンクレジットエンディング映像"
+    ed2.url = "https://www.youtube.com/watch?v=eoKchVhsdsU"
+    ed2.noncredit = true
+    ed2.tvsize = true
+
+    ed3.title = "TVアニメ「くノ一ツバキの胸の内」三の巻ノンクレジットエンディング映像"
+    ed3.url = "https://www.youtube.com/watch?v=H6lp4X3m7Co"
+    ed3.noncredit = true
+    ed3.tvsize = true
+
+    ed4.title = "TVアニメ「くノ一ツバキの胸の内」四の巻ノンクレジットエンディング映像"
+    ed4.url = "https://www.youtube.com/watch?v=m-yE_hBhs50"
+    ed4.noncredit = true
+    ed4.tvsize = true
+
+    ed5.title = "TVアニメ「くノ一ツバキの胸の内」五の巻ノンクレジットエンディング映像"
+    ed5.url = "https://www.youtube.com/watch?v=0Zyq3hdCvFM"
+    ed5.noncredit = true
+    ed5.tvsize = true
+
+["史上最強の大魔王、村人Aに転生する"]
+    op1.title = "TVアニメ『史上最強の大魔王、村人Aに転生する』ノンテロップOP映像"
+    op1.url = "https://www.youtube.com/watch?v=0zP2l5N3zDk"
+    op1.noncredit = true
+    op1.tvsize = true
+
+    op1_full.title = "大橋彩香 - Be My Friend!!! [Official MV])"
+    op1_full.url = "https://www.youtube.com/watch?v=1PX03dYa8Cs"
+    op1_full.noncredit = false
+    op1_full.tvsize = false
+
+    ed1.title = "TVアニメ『史上最強の大魔王、村人Aに転生する』ノンテロップED映像"
+    ed1.url = "https://www.youtube.com/watch?v=aTu-UNDF03w"
+    ed1.noncredit = true
+    ed1.tvsize = true
+
+["社畜さんは幼女幽霊に癒されたい。"]
+    op1.title = "TVアニメ「社畜さんは幼女幽霊に癒されたい。」ノンテロップOP"
+    op1.url = "https://www.youtube.com/watch?v=LepHBNJnVig"
+    op1.noncredit = true
+    op1.tvsize = true
+
+    op1_full.title = "石原夏織 'Cherish' Music Video"
+    op1_full.url = "https://www.youtube.com/watch?v=jSNF4RSPN4Q"
+    op1_full.noncredit = false
+    op1_full.tvsize = false
+
+    ed1.title = "TVアニメ「社畜さんは幼女幽霊に癒されたい。」ノンテロップED"
+    ed1.url = "https://www.youtube.com/watch?v=rzKYuOIwi5I"
+    ed1.noncredit = true
+    ed1.tvsize = true
+
+["処刑少女の生きる道"]
+    op1.title = "アニメ「処刑少女の生きる道(バージンロード)」 OP映像"
+    op1.url = "https://www.youtube.com/watch?v=6ixSWvF7L-A"
+    op1.noncredit = false
+    op1.tvsize = true
+
+    op1_full.title = "Mili - Paper Bouquet / 処刑少女の生きる道（バージンロード） OP [Full]"
+    op1_full.url = "https://www.youtube.com/watch?v=Wykhe7OgZeA"
+    op1_full.noncredit = false
+    op1_full.tvsize = false
+
+    ed1.title = "アニメ「処刑少女の生きる道(バージンロード)」 ED映像"
+    ed1.url = "https://www.youtube.com/watch?v=BZkH9kxdnDI"
+    ed1.noncredit = false
+    ed1.tvsize = true
+
+    ed1_full.title = "[Official MV] ChouCho - 灯火セレナード（TVアニメ『処刑少女の生きる道(バージンロード)』ED主題歌）"
+    ed1_full.url = "https://www.youtube.com/watch?v=nmqI6imWHVg"
+    ed1_full.noncredit = false
+    ed1_full.tvsize = false
+
+["まちカドまぞく2丁目"]
+    oped1.title = "【まちカドまぞく 2丁目】OPテーマ「ときめきランデヴー」＆EDテーマ「宵加減テトラゴン」【試聴】"
+    oped1.url = "https://www.youtube.com/watch?v=eoBiUWr1kPc"
+    oped1.noncredit = false
+    oped1.tvsize = true
+
+    op1_full.title = "ときめきランデヴー"
+    op1_full.url = "https://www.youtube.com/watch?v=lmyDgLkbznw"
+    op1_full.noncredit = false
+    op1_full.tvsize = false
+
+    ed1_full.title = "宵加減テトラゴン"
+    ed1_full.url = "https://www.youtube.com/watch?v=oL2gDDjkCb4"
+    ed1_full.noncredit = false
+    ed1_full.tvsize = false
+
+["パリピ孔明"]
+    op1.title = "TVアニメ「パリピ孔明」OPテーマ「チキチキバンバン」ノンテロップ映像"
+    op1.url = "https://www.youtube.com/watch?v=XicdpSmxuT0"
+    op1.noncredit = true
+    op1.tvsize = true
+
+    ed1.title = "TVアニメ「パリピ孔明」EDテーマ「気分上々↑↑」ノンテロップ映像"
+    ed1.url = "https://www.youtube.com/watch?v=0njrO-Qb0u8"
+    ed1.noncredit = true
+    ed1.tvsize = true
+
+    special1.title = "TVアニメ「パリピ孔明」挿入歌「Be Crazy For Me」（EIKO Starring 96猫）フル尺スペシャルMusic Video"
+    special1.url = "https://www.youtube.com/watch?v=N-bdKXQcGiM"
+    special1.noncredit = false
+    special1.tvsize = false
+
+["SPY×FAMILY"]
+    op1.title = "『SPY×FAMILY』オープニング主題歌アニメ映像／“SPY × FAMILY” Opening theme song animation"
+    op1.url = "https://www.youtube.com/watch?v=U_rWZK_8vUY"
+    op1.noncredit = false
+    op1.tvsize = true
+
+    op1_full.title = "Official髭男dism - ミックスナッツ ［Official Video］"
+    op1_full.url = "https://www.youtube.com/watch?v=CbH2F0kXgTY"
+    op1_full.noncredit = false
+    op1_full.tvsize = false
+
+    ed1.title = "『SPY×FAMILY』エンディング主題歌アニメ映像（ノンクレジット）／“SPY × FAMILY” Ending theme song animation"
+    ed1.url = "https://www.youtube.com/watch?v=nRKJBpFFsuI"
+    ed1.noncredit = true
+    ed1.tvsize = true
+
+    ed1_full.title = "星野源 – 喜劇 (Official Video)"
+    ed1_full.url = "https://www.youtube.com/watch?v=D_Oyplmhhv0"
+    ed1_full.noncredit = false
+    ed1_full.tvsize = false
+
